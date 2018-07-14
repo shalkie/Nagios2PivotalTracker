@@ -14,9 +14,12 @@ The application should have the following attributes:
 
 	The script will be executed everytime there is a state change or notification and should not rely on tracking things itself. The only thing it should retain are credentials for the API.
 * It should be simple
+
 	KISS
 * It should be service agnostic
+
 	It should be written to use PivotalTracker, Trello or Ajira
 * It should be Pluggable
+
 	It should be broken down to bite sized pieces
 
